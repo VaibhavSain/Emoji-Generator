@@ -1,5 +1,3 @@
----
-
 🚀 **New Project Alert!** 🚀
 
 I just built an **Emoji Generator** 🎉 using **HTML, CSS, and JavaScript**!
@@ -19,5 +17,3 @@ This project helped me sharpen my **DOM manipulation** and **event handling** sk
 💡 Learning takeaway: Sometimes, even small projects can boost creativity and problem-solving skills while strengthening fundamentals.
 
 \#JavaScript #WebDevelopment #Coding #Frontend #Projects #100DaysOfCode
-
----
